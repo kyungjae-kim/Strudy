@@ -1,1 +1,1 @@
-# Strudy
+# Study
